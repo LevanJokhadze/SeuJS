@@ -1,0 +1,11 @@
+.controls, .results {
+    border: solid 1px gray;
+    width: 67%;
+    margin: 10px auto;
+    padding: 10px;
+    background-color: beige;
+}
+
+.results {
+    min-height: 400px;
+}
